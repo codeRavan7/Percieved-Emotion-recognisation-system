@@ -1,0 +1,9 @@
+modality,gt_method,dimension,pearson_r,ccc,rmse,mae,sign_acc_%
+audio,Average,valence,-0.007,-0.004,0.516,0.416,69.519
+audio,Average,arousal,0.125,0.124,0.531,0.432,58.289
+video,Average,valence,0.124,0.118,0.452,0.337,86.096
+video,Average,arousal,0.122,0.109,0.539,0.409,60.963
+audio,Gaussian,valence,-0.005,-0.003,0.517,0.417,68.984
+audio,Gaussian,arousal,0.127,0.126,0.534,0.435,57.754
+video,Gaussian,valence,0.124,0.118,0.452,0.338,86.631
+video,Gaussian,arousal,0.118,0.106,0.543,0.413,61.497

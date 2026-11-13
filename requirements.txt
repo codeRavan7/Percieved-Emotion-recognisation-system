@@ -1,0 +1,18 @@
+# Experiment 1
+numpy
+pandas
+matplotlib
+
+# Models (frozen encoders + small trainable head)
+torch
+torchvision
+transformers      # Wav2Vec2 (audio) + CLIP (video)
+
+# Media I/O
+soundfile         # read/write .wav
+opencv-python     # read video frames
+imageio-ffmpeg    # bundled ffmpeg binary, no separate ffmpeg install needed
+tqdm
+
+# Subtitle-label pilot
+vaderSentiment    # text sentiment (plus the NRC-VAD word list in data/lexicons/)

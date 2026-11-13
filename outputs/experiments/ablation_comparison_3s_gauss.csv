@@ -1,0 +1,5 @@
+Architecture,Modality,Description,Valence_CCC,Valence_r,Arousal_CCC,Arousal_r,Mean_CCC,Mean_r,Mean_RMSE
+MGN,both,Proposed MGN (Audio + Video + Gates + Genre),0.1843,0.2212,0.2685,0.3269,0.2264,0.2741,0.4924
+MLP,both,Baseline Fusion MLP (Audio + Video),0.2316,0.2646,0.2746,0.3195,0.2531,0.2921,0.5219
+MLP,video,Video-Only Baseline (EmotionCLIP-V2),0.1162,0.1563,0.1791,0.2059,0.1476,0.1811,0.5163
+MLP,audio,Audio-Only Baseline (Wav2Vec2),0.1799,0.2021,0.2979,0.318,0.2389,0.26,0.5083

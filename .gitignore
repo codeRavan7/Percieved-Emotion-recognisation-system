@@ -1,0 +1,12 @@
+# Data and media files (copyrighted movies and pre-extracted features)
+data/
+pretrained/
+
+# Python compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+length_s,dimension,pearson_r,ccc,coverage_%
+10,valence,-0.165,-0.092,100.0
+10,arousal,0.278,0.197,100.0
+10,mean arousal: with / without dialogue,-0.114,0.051,
+3,valence,-0.244,-0.121,100.0
+3,arousal,0.23,0.138,100.0
+3,mean arousal: with / without dialogue,-0.128,0.024,

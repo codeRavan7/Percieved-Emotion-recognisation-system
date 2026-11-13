@@ -1,0 +1,4 @@
+10 s clips, Average                     : nearest-centre genre accuracy = 42.5% (majority-class baseline = 26.8%)
+10 s clips, Temporal Gaussian Weighting : nearest-centre genre accuracy = 42.4% (majority-class baseline = 26.8%)
+ 3 s clips, Average                     : nearest-centre genre accuracy = 42.2% (majority-class baseline = 26.8%)
+ 3 s clips, Temporal Gaussian Weighting : nearest-centre genre accuracy = 42.0% (majority-class baseline = 26.8%)
